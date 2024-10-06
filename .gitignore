@@ -1,0 +1,32 @@
+# Gradle
+.gradle/
+build/
+
+# Ignore Gradle wrapper jar file
+gradle/wrapper/gradle-wrapper.jar
+
+# Ignore Gradle log files
+gradle.log
+
+# Ignore Gradle build output directories
+out/
+
+# Ignore IDE-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore Eclipse project files
+.project
+.classpath
+.settings/
+
+# Ignore VS Code project files
+.vscode/
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore Linux system files
+*~
